@@ -17,6 +17,9 @@
             <li><a href="paginas/Matematicas.php">2. Fibonacci / Factorial</a></li>
             <li><a href="paginas/estadisticas.php">3. Promedio, media y moda</a>
             <li><a href="paginas/conjuntos.php">4.conjuntos</a></li>
+            <li><a href="paginas/conversor.php">5.Convertidior</a></li>
+            <li><a href="paginas/arbolBinario.php">6.Arbol binario</a></li>
+            <li><a href="paginas/calculadora.php">7.Calculadora</a></li>
     
         </ul>
     </nav>
