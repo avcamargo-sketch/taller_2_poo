@@ -14,7 +14,9 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
 <html lang="es">
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/estilo.css">
     <title>Ejercicio 5 - Binario</title>
+    
 </head>
 <body>
 <h2>Convertir número a binario</h2>

@@ -22,6 +22,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <html>
 
 <head>
+    <link rel="stylesheet" href="css/estilo.css">
     <title>Estadísticas</title>
 </head>
 

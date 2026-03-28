@@ -21,6 +21,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <html>
 
 <head>
+    <link rel="stylesheet" href="css/estilo.css">
     <title>Fibonacci y Factorial</title>
 </head>
 
