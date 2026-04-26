@@ -14,11 +14,12 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="css/estilo.css">
+    <link rel="stylesheet" href="../css/style.css">
     <title>Ejercicio 5 - Binario</title>
     
 </head>
 <body>
+    <div class="contenedor">
 <h2>Convertir número a binario</h2>
 
 <form method="post">
@@ -31,5 +32,6 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
 <?php endif; ?>
 
 <br><a href="../index.php">Volver</a>
+</div>
 </body>
 </html>

@@ -22,11 +22,12 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
 <head>
     <meta charset="UTF-8">
-     <link rel="stylesheet" href="css/estilo.css">
+     <link rel="stylesheet" href="../css/style.css">
     <title>Ejercicio 6 - Árbol Binario</title>
 </head>
 
 <body>
+    <div class="contenedor">
     <h2>Construcción de Árbol Binario</h2>
 
     <form method="post">
@@ -50,6 +51,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
     <br>
     <a href="../index.php">← Volver</a>
+</div>
 </body>
 
 </html>

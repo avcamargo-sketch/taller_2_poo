@@ -21,12 +21,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <html>
 
 <head>
-    <link rel="stylesheet" href="css/estilo.css">
+    <link rel="stylesheet" href="../css/style.css">
     <title>Fibonacci y Factorial</title>
 </head>
 
 <body>
-
+<div class="contenedor">
     <h2>Fibonacci y Factorial</h2>
 
     <form method="POST">
@@ -44,7 +44,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     <br>
     <a href="../index.php">Volver</a>
-
+</div>
 </body>
 
 </html>

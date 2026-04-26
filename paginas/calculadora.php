@@ -21,11 +21,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="css/estilo.css">
+    <link rel="stylesheet" href="../css/style.css">
     <title>Ejercicio 7 - Calculadora</title>
 </head>
 
 <body>
+    <div class="contenedor">
     <h2>Calculadora</h2>
 
     <form method="post">
@@ -55,6 +56,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </ul>
 
     <br><a href="../index.php">Volver</a>
+    </div>
 </body>
 
 </html>

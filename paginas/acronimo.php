@@ -17,12 +17,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 <head>
     <meta charset="UTF-8">
-     <link rel="stylesheet" href="css/estilo.css">
+     <link rel="stylesheet" href="../css/style.css">
     <title>Acrónimo</title>
 </head>
 
 <body>
-
+<div class="contenedor">
     <h2>Generar Acrónimo</h2>
 
     <form method="POST">
@@ -36,7 +36,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     <br>
     <a href="../index.php">Volver al menú</a>
+</div>
 
 </body>
-
 </html>
